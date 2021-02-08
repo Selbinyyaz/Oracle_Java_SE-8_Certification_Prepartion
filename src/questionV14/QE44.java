@@ -13,6 +13,10 @@ public class QE44 {
 		
 		// and this output
 		//Arg is 2 so this means arg3=2--> args[2]
+		
+		//which command shoud you run to obtain this output?
+		
+		//java QE44 1 2 2
 
 	}
 

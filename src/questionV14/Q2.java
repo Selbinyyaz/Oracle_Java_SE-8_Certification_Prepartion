@@ -12,6 +12,8 @@ public class Q2 {
 //			 E. Fields need to be initialized before use.
 //			 F. Methods and fields are optional components of a class.
 	
+	int Q2;//A class cannot have the same name as its field. 	WRONG
+	
 	
 
 }
